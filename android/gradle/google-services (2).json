@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636863549295",
+    "project_id": "save-data-22586",
+    "storage_bucket": "save-data-22586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636863549295:android:f43d5848acec4145c9e29a",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636863549295-9o7peu1q8t37ag0q7kk6tiont6gfgsm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcPr1lP0iLViEK8XeFvqovI0wpHfuMVVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636863549295-9o7peu1q8t37ag0q7kk6tiont6gfgsm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
